@@ -9,10 +9,11 @@
 3. 讲讲你认识的kubernetes组件，每个大概什么用途，你了解什么细节
 4. kubelet如何进行OOM相关的监控管理
 5. flannel管理下的kubernetes网络结构如何？你有了解过其他的网络结构吗？
-6. istio的基本使用情况，如何控制流量，如何做监控，为什么需要使用
-7. java gc
-8. springboot中ioc、aop的相关认识，aop的实现(InvocationHandler、reflect)
-9. class loader（我没有什么使用场景就说我不熟悉）
-10. 一个算法题，大概入门级别的那种，在一个无序数组中找到加起来为n的对。
+6. 简单阐述下underlay和overlay网络以及VPN的基本原理。
+7. istio的基本使用情况，如何控制流量，如何做监控，为什么需要使用
+8. java gc
+9. springboot中ioc、aop的相关认识，aop的实现(InvocationHandler、reflect)
+10. class loader（我没有什么使用场景就说我不熟悉）
+11. 一个算法题，大概入门级别的那种，在一个无序数组中找到加起来为n的对。
 
 总体感受：面试官是个大佬，我的内心是很害怕的，大部分时间是我在说，面试官基本没什么打断，问题，确实是很贴切云原生，如果有相应的引导，会顺着你的思路来，如果顺着你的思路来了，一般比较容易答。
